@@ -18,19 +18,30 @@ This dataset enables us to analyze aviation accidents for patterns, identify hig
 Tools: Python (Pandas, Matplotlib, Seaborn).
 
 ## Steps
+
 **1. Data Understanding**
+
 Explored dataset features, including dimensions and types of incidents (accident vs. incident).
 Highlighted key features critical to aviation safety analysis.
+
 **2. Data Cleaning**
+
 Handled missing data by imputing, standardizing, or discarding values where necessary.
 Standardized column names for consistency.
 Ensured data quality through duplicate removal and datatype conversions.
+
 **3. Exploratory Analysis**
+
 *a) Trend Analysis*
+
 Visualized the number of accidents per year to assess safety improvements over time.
+
 *b) Weather Impact*
+
 Evaluated the effect of weather conditions on accident occurrence using bar charts.
+
 *c) Correlation Analysis*
+
 Created a heatmap to study relationships among injury severities.
 
 # Summary
